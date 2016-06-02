@@ -34,4 +34,3 @@ This file defines the 'Movie' class.
 
 ---
 Copyright (C) 2016 Udacity
-This file is part of GNU Make.
